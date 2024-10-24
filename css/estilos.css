@@ -43,7 +43,9 @@
     grid-area: foot;
     padding: 10px;
 }
-background-image: url(../img/flor.png)
+.modal .modal-popout-bg{
+    background-image: url("../img/output-onlinepngtools.png");
+}
 @media screen and (max-width:768px){
     .padre
     {
