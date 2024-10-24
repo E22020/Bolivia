@@ -43,7 +43,7 @@
     grid-area: foot;
     padding: 10px;
 }
-background-image: url()
+background-image: url(../img/flor.png)
 @media screen and (max-width:768px){
     .padre
     {
