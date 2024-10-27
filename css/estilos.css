@@ -43,12 +43,7 @@
     grid-area: foot;
     padding: 10px;
 }
-.modal .modal-popout-bg{
-    background-image: url("../img/output-onlinepngtools.png");
-}
-.modal .modal-background{
-    background-image: url("../img/horario.png");
-}
+
 @media screen and (max-width:768px){
     .padre
     {
